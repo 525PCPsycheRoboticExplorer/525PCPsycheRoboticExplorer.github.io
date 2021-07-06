@@ -44,15 +44,29 @@ img.far-top-right
 {
   float: top;
   float: right;
+  margin-right: 10px
 }
 
 img.top-right 
 {
   float: top;
   float: right;
-  margin-right: 10px
+  margin-right: 20px
 }
 
+img.far-top-left 
+{
+  float: top;
+  float: left;
+  margin-left: 10px
+}
+
+img.top-left 
+{
+  float: top;
+  float: left;
+  margin-left: 20px
+}
 img.medium 
 {
   width: 80px;
