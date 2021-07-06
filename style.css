@@ -96,6 +96,11 @@ img.large
   margin-bottom: 30px;
 }
 
+.astroid
+{
+  float: center;
+}
+
 nav ul li
 {
   list-style: none; 
