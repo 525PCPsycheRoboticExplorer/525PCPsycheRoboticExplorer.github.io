@@ -4,9 +4,10 @@ body
   background-color: rgb(181, 181, 181); <!-- light grey -->
 }
 
-h1, h2 
+h1 
 {
   color: rgb(0, 0, 0);
+  text-align: center;
   padding-top: 18px; 
   padding-left: 10px;
 }
@@ -67,16 +68,17 @@ img.top-left
   float: left;
   margin-left: 15px
 }
+
 img.medium 
 {
   width: 80px;
   height: 80px;
 }
 
-img.small 
+img.medium-long
 {
-  width: 284px;
-  height: 504px;
+  width: 100px;
+  height: 80px;
 }
 
 nav ul li
