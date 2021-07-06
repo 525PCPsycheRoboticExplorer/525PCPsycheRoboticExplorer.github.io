@@ -72,6 +72,11 @@ img.top-left
   margin-left: 15px
 }
 
+img.center
+{
+  float: center;
+}
+
 img.medium 
 {
   width: 80px;
@@ -94,11 +99,6 @@ img.large
 {
   margin-top: 30px;
   margin-bottom: 30px;
-}
-
-.astroid
-{
-  float: center;
 }
 
 nav ul li
