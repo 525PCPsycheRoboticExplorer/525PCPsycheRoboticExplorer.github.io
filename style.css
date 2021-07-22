@@ -73,9 +73,12 @@ img.top-left
   margin-left: 15px
 }
 
-img.center
+.center
 {
-  float: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 img.medium 
