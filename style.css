@@ -113,6 +113,14 @@ nav ul li
   margin-left: 60px;
 }
 
+ul.bullet
+{
+  color: rgb(0, 0, 0);
+  list-style: none; 
+  display: inline-block;
+  margin-left: 60px;
+  list-style-type: circle;
+}
 
 td 
 {
